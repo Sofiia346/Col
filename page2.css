@@ -1,0 +1,13 @@
+.content{
+    padding: 60px 54px 41px;
+    background-color: #d0b257;
+    border-radius: 16px;
+    width: 400px;
+    margin: 10px;
+    border: 2px solid black;
+ }
+.block{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

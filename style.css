@@ -1,0 +1,9 @@
+.columns{
+    display: flex;
+    justify-content: space-around;
+    align-items: start;
+    height: 100vh;
+}
+.text{
+    width: 200px;
+}
